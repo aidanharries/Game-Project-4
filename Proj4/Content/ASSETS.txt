@@ -1,0 +1,15 @@
+﻿# ASSETS USED IN PROJECT 4
+
+## Images
+Content/frog.png - created by Aidan Harries using Aesprite
+Content/lilypad.png - created by Aidan Harries using Aesprite
+Content/tilemap.png - created by Aidan Harries using Aesprite
+Content/water_tiles.png - created by Aidan Harries using Aesprite
+
+## Tilemap
+Content/tilemap.tmp - created by Aidan Harries
+
+## Fonts
+- Content/LanaPixel.ttf: LanaPixel font created by eishiya.
+  - License: Open Font License (OFL)
+  - Source: https://opengameart.org/content/lanapixel-localization-friendly-pixel-font

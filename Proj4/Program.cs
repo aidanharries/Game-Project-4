@@ -1,3 +1,3 @@
 ﻿
-using var game = new Proj4.Game1();
+using var game = new Proj4.Proj4();
 game.Run();

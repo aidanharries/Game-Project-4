@@ -1,0 +1,12 @@
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\bin\Release\net6.0\ContentPipelineExtension.deps.json
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\bin\Release\net6.0\ContentPipelineExtension.dll
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\bin\Release\net6.0\ContentPipelineExtension.pdb
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.csproj.AssemblyReference.cache
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.AssemblyInfoInputs.cache
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.AssemblyInfo.cs
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.dll
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\refint\ContentPipelineExtension.dll
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ContentPipelineExtension.pdb
+C:\Users\aidan\Desktop\School\Senior2 - Fall 2023\Video Game Programming\PROJECTS\Proj4\ContentPipelineExtension\obj\Release\net6.0\ref\ContentPipelineExtension.dll
